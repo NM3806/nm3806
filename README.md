@@ -1,17 +1,28 @@
 <div align="center">
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100px" alt="Hey there!" style="border-radius: 50%;" />
+<a href="https://github.com/NM3806">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120px" alt="Hey there!" style="border-radius: 50%;" />
+</a>
 <h1>Hi there, I'm Naitik Madarwal 👋</h1>
-<p>A passionate Full Stack Developer with expertise in <strong>Web3 and AI</strong>. I'm a B.Tech student in IT at IIIT Bhopal (2023–2027) and a Full Stack Developer Intern at Soven. I love building innovative and meaningful applications that challenge me and expand my skill set.</p>
 <p>
-<a href="https://www.linkedin.com/in/naitik-madarwal-nm3806" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:naitikmadarwal3806@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+A passionate <strong>Full Stack Developer</strong> specializing in <strong>Web3 & AI</strong>.<br/>
+I'm currently pursuing a B.Tech in IT at IIIT Bhopal (2023–2027) and working as a Full Stack Developer Intern at Soven.<br/>
+I thrive on building innovative applications that challenge me and expand my skill set.
 </p>
+
+<div>
+<a href="https://www.linkedin.com/in/naitik-madarwal-nm3806" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:naitikmadarwal3806@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+</div>
 </div>
 
 🚀 What I'm Up To
-🌱 I’m currently learning about advanced AI models and blockchain development.
+🌱 Currently diving deep into advanced AI models and blockchain development.
 
-💬 Ask me about my projects.
+💬 Feel free to ask me about my projects and the tech behind them.
 
 🛠️ My Tech Stack
 <div align="center">
@@ -34,56 +45,59 @@
 </div>
 
 ✨ My Key Projects
-<table align="center" style="border: none;">
-<!-- Top Row: SOLMate and SocialEyes -->
+<table align="center" style="border: none; width: 100%;">
+<!-- SOLMate and SocialEyes -->
 <tr valign="top">
-<td width="50%" style="padding: 10px;">
+<td width="50%" style="padding: 15px;">
 <h3 align="center">SOLMate</h3>
-<a href="https://github.com/NM3806/solmate"><img width="100%" alt="solmate" src="https://github.com/user-attachments/assets/d89fdf57-a990-4ca6-80dd-6f3c06f0383c" /></a>
-<p align="">
-A decentralized app for creating and managing SPL tokens on Solana.
-<br/><br/>
+<a href="https://github.com/NM3806/solmate">
+<img width="100%" alt="solmate" src="https://github.com/user-attachments/assets/d89fdf57-a990-4ca6-80dd-6f3c06f0383c" style="border-radius: 10px;"/>
+</a>
+<div style="padding-top: 10px;">
+<p>A decentralized app for creating and managing SPL tokens on the Solana blockchain.</p>
 <b>Features:</b>
 <ul>
 <li>Token creation & metadata updates</li>
-<li>Minting and transfers</li>
-<li>Phantom Wallet integration</li>
+<li>Minting and transferring tokens</li>
+<li>Seamless Phantom Wallet integration</li>
 </ul>
-</p>
+</div>
 </td>
-<td width="50%" style="padding: 10px;">
+<td width="50%" style="padding: 15px;">
 <h3 align="center">SocialEyes</h3>
-<a href="https://github.com/NM3806/socialeyes"><img width="100%" alt="socialeyes" src="https://github.com/user-attachments/assets/cc25a8c4-15a6-4975-9300-bc78d3bce697" /></a>
-<p align="">
-A real-time social media platform with a focus on low-latency interactions.
-<br/><br/>
+<a href="https://github.com/NM3806/socialeyes">
+<img width="100%" alt="socialeyes" src="https://github.com/user-attachments/assets/cc25a8c4-15a6-4975-9300-bc78d3bce697" style="border-radius: 10px;"/>
+</a>
+<div style="padding-top: 10px;">
+<p>A real-time social media platform with a focus on low-latency interactions and concurrent updates.</p>
 <b>Features:</b>
 <ul>
-<li>Real-time post creation</li>
-<li>Likes and threaded comments</li>
-<li>Concurrent feed updates</li>
+<li>Real-time post creation and feed updates</li>
+<li>Interactive likes and threaded comments</li>
+<li>Built for high concurrency</li>
 </ul>
-</p>
+</div>
 </td>
 </tr>
-<!-- Bottom Row: YouTube Downloader -->
+<!-- YouTube Downloader -->
 <tr valign="top">
-<td width="50%" style="padding: 10px;">
-<h3 align="center">YouTube Downloader</h3>
-<a href="https://github.com/NM3806/Youtube-Video-Downloader-GUI"><img width="100%" alt="yt video downloader" src="https://github.com/user-attachments/assets/e78db451-cfc4-4b77-889f-0d5834a3f124" /></a>
+<td width="50%" style="padding: 15px;">
+<h3 align="center">YouTube Downloader GUI</h3>
+<a href="https://github.com/NM3806/Youtube-Video-Downloader-GUI">
+<img width="100%" alt="yt video downloader" src="https://github.com/user-attachments/assets/e78db451-cfc4-4b77-889f-0d5834a3f124" style="border-radius: 10px;"/>
+</a>
 </td>
-<td width="50%" style="padding: 10px; vertical-align: middle;">
-<p align="">
-A user-friendly desktop GUI for downloading YouTube content.
-<br/><br/>
+<td width="50%" style="padding: 15px; vertical-align: middle;">
+<div>
+<p>A user-friendly desktop application for downloading YouTube videos and audio with a clean interface.</p>
 <b>Features:</b>
 <ul>
-<li>Download video (MP4) & audio (MP3)</li>
-<li>Real-time progress & ETA</li>
-<li>Thumbnail previews</li>
+<li>Download video (MP4) and audio (MP3)</li>
+<li>Real-time progress bar and ETA</li>
+<li>Automatic thumbnail previews</li>
 </ul>
 <b>Tech:</b> Python, yt-dlp, CustomTkinter
-</p>
+</div>
 </td>
 </tr>
 </table>
@@ -92,25 +106,13 @@ A user-friendly desktop GUI for downloading YouTube content.
 <div align="center">
 <p>
 <img src="https://nirzak-streak-stats.vercel.app/?user=NM3806&theme=dark&hide_border=false" alt="GitHub Streak"/>
-<br/>
+</p>
+<p>
 <img src="https://github-profile-trophy.vercel.app/?username=NM3806&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&column=3" alt="GitHub Trophies"/>
 </p>
 <br/>
-<table>
-<tr>
-<td>
 <img src="https://github-readme-stats.vercel.app/api?username=NM3806&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Naitik's GitHub Stats"/>
-</td>
-<td>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NM3806&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Naitik's Top Languages"/>
-</td>
-</tr>
-</table>
-</div>
-
-<br/>
-
-<div align="center">
 <p>
 <a href="https://www.codechef.com/users/naitikm3806" target="_blank"><img src="https://img.shields.io/badge/CodeChef-2_Star_Coder-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Rank"/></a>
 <a href="https://ideathon-gdsc.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Ideathon_Winner-2nd_Place-4CAF50?style=for-the-badge" alt="Ideathon Winner"/></a>
