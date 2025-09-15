@@ -1,21 +1,108 @@
-# 💫 About Me:
-Create a GitHub profile README for me. <br><br>Details:<br>- Name: Naitik Madarwal<br>- Tagline: Full Stack Developer | Web3 & AI Enthusiast | B.Tech IT @ IIIT Bhopal (2023–2027)<br>- Location: Vidisha, India<br>- Email: naitikmadarwal3806@gmail.com<br>- LinkedIn: https://www.linkedin.com/in/naitik-madarwal-nm3806<br>- GitHub: https://github.com/NM3806<br>- Portfolio/Demo Links:<br>  - SOLMate → https://solmate-nm3806.vercel.app<br>  - SocialEyes → https://social-eyes.vercel.app<br>- Skills:<br>  - Languages: C++, Python, JavaScript, TypeScript<br>  - Frontend: React.js, Next.js (App Router), Tailwind CSS<br>  - Backend: Firebase, Supabase (PostgreSQL), REST APIs<br>  - Blockchain: Solana Web3.js, Phantom Wallet<br>  - Tools: Git, GitHub, Vercel<br>- Experience:<br>  - Full Stack Developer Intern at Soven Developer (AI-powered medical chatbot, Web + WhatsApp + SMS + Email, OpenAI + Gemini integration, modular backend refactor)<br>- Projects:<br>  - SOLMate: Solana-based SPL token manager (100 tx/sec benchmarks, Lighthouse 98 Perf, 100 SEO)<br>  - SocialEyes: Firebase social media app (sub-200ms reads, Lighthouse 92+ scores)<br>  - AI Medical Chatbot: Multi-platform with predictive health alerts, recovery support, secure communication<br>- Achievements:<br>  - 2nd Place in GDSC IIIT Bhopal Ideathon<br>  - 51st Rank in OPTIGO Inter-IIIT Coding Contest<br>  - CodeChef 2★ (max rating 1547)<br>  - 338th rank in GirlScript Summer of Code (GSSoC) Extended 2024<br>- What I want:<br>  - A professional, recruiter-friendly profile<br>  - Highlight projects with links & benchmarks<br>  - Add GitHub stats widgets (contributions, streak, languages)<br>  - Clean, modern design with sections: Intro, Skills, Projects, Achievements, Stats<br>  - Keep tone friendly but professional (not too robotic)<br>
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/naitik-madarwal-nm3806) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:naitikmadarwal3806@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat-square&logo=framer&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=flat-square&labelColor=171717&logoColor=5cb85c) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=Twilio&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=NM3806&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=NM3806&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NM3806&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=NM3806&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100px" alt="Hey there!" style="border-radius: 50%;" />
+  <h1>Hi there, I'm Naitik Madarwal 👋</h1>
+  <p>A passionate Full Stack Developer with expertise in <strong>Web3 and AI</strong>. I'm a B.Tech student in IT at IIIT Bhopal (2023–2027) and a Full Stack Developer Intern at Soven. I love building innovative and meaningful applications that challenge me and expand my skill set.</p>
+  <p>
+    <a href="https://www.linkedin.com/in/naitik-madarwal-nm3806" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="mailto:naitikmadarwal3806@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  </p>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=NM3806&icon=2&color=2)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 What I'm Up To
+- 🌱 I’m currently learning about advanced AI models and blockchain development.
+- 💬 Ask me about my projects.
+
+---
+
+### 🛠️ My Tech Stack
+<div align="center">
+  <p>
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
+    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
+    <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" alt="Solana">
+    <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=api-platform&logoColor=white" alt="REST API">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  </p>
+</div>
+
+---
+
+### ✨ My Key Projects
+<table align="center">
+  <tr valign="top">
+    <td width="50%" style="padding: 10px;">
+      <h3 align="center">SOLMate</h3>
+      <a href="https://github.com/NM3806/solmate"><img width="100%" alt="solmate" src="https://github.com/user-attachments/assets/d89fdf57-a990-4ca6-80dd-6f3c06f0383c" /></a>
+      <p align="center">
+        A decentralized application for creating and managing SPL tokens on the Solana blockchain.
+        <br/><br/>
+        <b>Features:</b> Token creation, metadata updates, minting, and transfers with Phantom Wallet integration.
+        <br/>
+        <b>Performance:</b> Sustained 100% success rate on 100 transactions and achieved a 98 Lighthouse performance score.
+      </p>
+    </td>
+    <td width="50%" style="padding: 10px;">
+      <h3 align="center">SocialEyes</h3>
+      <a href="https://github.com/NM3806/socialeyes"><img width="100%" alt="socialeyes" src="https://github.com/user-attachments/assets/cc25a8c4-15a6-4975-9300-bc78d3bce697" />
+</a>
+      <p align="center">
+        A real-time social media platform with a focus on low-latency interactions.
+        <br/><br/>
+        <b>Features:</b> Post creation, likes, and threaded comments with concurrent feed updates.
+        <br/>
+        <b>Performance:</b> Optimized Firestore schema to achieve sub-200ms read latency and a 92+ Lighthouse score.
+      </p>
+    </td>
+  </tr>
+  <tr valign="top">
+    <td colspan="2" style="padding: 10px;">
+      <h3 align="center">YouTube Downloader</h3>
+      <a href="https://github.com/NM3806/Youtube-Video-Downloader-GUI"><img width="100%" alt="yt video downloader" src="https://github.com/user-attachments/assets/e78db451-cfc4-4b77-889f-0d5834a3f124" /></a>
+      <p align="center">
+        A user-friendly desktop GUI for downloading YouTube content.
+        <br/><br/>
+        <b>Features:</b> Download video (MP4) and audio (MP3), with real-time progress, ETA, and thumbnail previews.
+        <br/>
+        <b>Tech:</b> Python, yt-dlp, CustomTkinter.
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🏆 Achievements & Metrics
+<div align="center">
+  <p>
+    <img src="https://nirzak-streak-stats.vercel.app/?user=NM3806&theme=dark&hide_border=false" alt="GitHub Streak"/>
+    <br/>
+    <img src="https://github-profile-trophy.vercel.app/?username=NM3806&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&column=3" alt="GitHub Trophies"/>
+  </p>
+  <br/>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=NM3806&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Naitik's GitHub Stats"/>
+    <br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NM3806&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Naitik's Top Languages"/>
+  </p>
+</div>
+
+<br/>
+
+<div align="center">
+  <p>
+    <a href="https://www.codechef.com/users/naitikm3806" target="_blank"><img src="https://img.shields.io/badge/CodeChef-2_Star_Coder-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Rank"/></a>
+    <a href="https://ideathon-gdsc.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Ideathon_Winner-2nd_Place-4CAF50?style=for-the-badge" alt="Ideathon Winner"/></a>
+    <a href="https://gssoc.tech" target="_blank"><img src="https://img.shields.io/badge/GSSOC_Extended_2024-Rank_338-FF5722?style=for-the-badge" alt="GSSOC Rank"/></a>
+  </p>
+</div>
