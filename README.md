@@ -34,33 +34,55 @@
 </div>
 
 ✨ My Key Projects
-<table align="center">
+<table align="center" style="border: none;">
+<!-- Top Row: SOLMate and SocialEyes -->
 <tr valign="top">
-<td width="33%" style="padding: 10px;">
+<td width="50%" style="padding: 10px;">
 <h3 align="center">SOLMate</h3>
 <a href="https://github.com/NM3806/solmate"><img width="100%" alt="solmate" src="https://github.com/user-attachments/assets/d89fdf57-a990-4ca6-80dd-6f3c06f0383c" /></a>
-<p align="center">
+<p align="">
 A decentralized app for creating and managing SPL tokens on Solana.
 <br/><br/>
-<b>Features:</b> Token creation, metadata updates, minting, and transfers.
+<b>Features:</b>
+<ul>
+<li>Token creation & metadata updates</li>
+<li>Minting and transfers</li>
+<li>Phantom Wallet integration</li>
+</ul>
 </p>
 </td>
-<td width="33%" style="padding: 10px;">
+<td width="50%" style="padding: 10px;">
 <h3 align="center">SocialEyes</h3>
 <a href="https://github.com/NM3806/socialeyes"><img width="100%" alt="socialeyes" src="https://github.com/user-attachments/assets/cc25a8c4-15a6-4975-9300-bc78d3bce697" /></a>
-<p align="center">
+<p align="">
 A real-time social media platform with a focus on low-latency interactions.
 <br/><br/>
-<b>Features:</b> Post creation, likes, and threaded comments.
+<b>Features:</b>
+<ul>
+<li>Real-time post creation</li>
+<li>Likes and threaded comments</li>
+<li>Concurrent feed updates</li>
+</ul>
 </p>
 </td>
-<td width="33%" style="padding: 10px;">
+</tr>
+<!-- Bottom Row: YouTube Downloader -->
+<tr valign="top">
+<td width="50%" style="padding: 10px;">
 <h3 align="center">YouTube Downloader</h3>
 <a href="https://github.com/NM3806/Youtube-Video-Downloader-GUI"><img width="100%" alt="yt video downloader" src="https://github.com/user-attachments/assets/e78db451-cfc4-4b77-889f-0d5834a3f124" /></a>
-<p align="center">
+</td>
+<td width="50%" style="padding: 10px; vertical-align: middle;">
+<p align="">
 A user-friendly desktop GUI for downloading YouTube content.
 <br/><br/>
-<b>Features:</b> Download video (MP4) and audio (MP3) with real-time progress.
+<b>Features:</b>
+<ul>
+<li>Download video (MP4) & audio (MP3)</li>
+<li>Real-time progress & ETA</li>
+<li>Thumbnail previews</li>
+</ul>
+<b>Tech:</b> Python, yt-dlp, CustomTkinter
 </p>
 </td>
 </tr>
@@ -74,11 +96,16 @@ A user-friendly desktop GUI for downloading YouTube content.
 <img src="https://github-profile-trophy.vercel.app/?username=NM3806&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&column=3" alt="GitHub Trophies"/>
 </p>
 <br/>
-<p>
+<table>
+<tr>
+<td>
 <img src="https://github-readme-stats.vercel.app/api?username=NM3806&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Naitik's GitHub Stats"/>
-<br/>
+</td>
+<td>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NM3806&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Naitik's Top Languages"/>
-</p>
+</td>
+</tr>
+</table>
 </div>
 
 <br/>
