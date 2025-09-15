@@ -1,16 +1,21 @@
-## Hi there 👋
+# 💫 About Me:
+Create a GitHub profile README for me. <br><br>Details:<br>- Name: Naitik Madarwal<br>- Tagline: Full Stack Developer | Web3 & AI Enthusiast | B.Tech IT @ IIIT Bhopal (2023–2027)<br>- Location: Vidisha, India<br>- Email: naitikmadarwal3806@gmail.com<br>- LinkedIn: https://www.linkedin.com/in/naitik-madarwal-nm3806<br>- GitHub: https://github.com/NM3806<br>- Portfolio/Demo Links:<br>  - SOLMate → https://solmate-nm3806.vercel.app<br>  - SocialEyes → https://social-eyes.vercel.app<br>- Skills:<br>  - Languages: C++, Python, JavaScript, TypeScript<br>  - Frontend: React.js, Next.js (App Router), Tailwind CSS<br>  - Backend: Firebase, Supabase (PostgreSQL), REST APIs<br>  - Blockchain: Solana Web3.js, Phantom Wallet<br>  - Tools: Git, GitHub, Vercel<br>- Experience:<br>  - Full Stack Developer Intern at Soven Developer (AI-powered medical chatbot, Web + WhatsApp + SMS + Email, OpenAI + Gemini integration, modular backend refactor)<br>- Projects:<br>  - SOLMate: Solana-based SPL token manager (100 tx/sec benchmarks, Lighthouse 98 Perf, 100 SEO)<br>  - SocialEyes: Firebase social media app (sub-200ms reads, Lighthouse 92+ scores)<br>  - AI Medical Chatbot: Multi-platform with predictive health alerts, recovery support, secure communication<br>- Achievements:<br>  - 2nd Place in GDSC IIIT Bhopal Ideathon<br>  - 51st Rank in OPTIGO Inter-IIIT Coding Contest<br>  - CodeChef 2★ (max rating 1547)<br>  - 338th rank in GirlScript Summer of Code (GSSoC) Extended 2024<br>- What I want:<br>  - A professional, recruiter-friendly profile<br>  - Highlight projects with links & benchmarks<br>  - Add GitHub stats widgets (contributions, streak, languages)<br>  - Clean, modern design with sections: Intro, Skills, Projects, Achievements, Stats<br>  - Keep tone friendly but professional (not too robotic)<br>
 
-<!--
-**NM3806/nm3806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/naitik-madarwal-nm3806) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:naitikmadarwal3806@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat-square&logo=framer&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=flat-square&labelColor=171717&logoColor=5cb85c) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=Twilio&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=NM3806&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=NM3806&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NM3806&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=NM3806&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=NM3806&icon=2&color=2)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
