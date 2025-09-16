@@ -118,4 +118,10 @@ I thrive on building innovative applications that challenge me and expand my ski
 <a href="https://ideathon-gdsc.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Ideathon_Winner-2nd_Place-4CAF50?style=for-the-badge" alt="Ideathon Winner"/></a>
 <a href="https://gssoc.tech" target="_blank"><img src="https://img.shields.io/badge/GSSOC_Extended_2024-Rank_338-FF5722?style=for-the-badge" alt="GSSOC Rank"/></a>
 </p>
+  <!-- Additional Metrics -->
+<p>
+<img src="https://komarev.com/ghpvc/?username=NM3806&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/NM3806?label=Followers&style=social" alt="GitHub Followers" />
+<img src="https://img.shields.io/github/stars/NM3806?label=Total%20Stars&style=social" alt="GitHub Stars" />
+</p>
 </div>
