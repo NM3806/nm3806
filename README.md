@@ -1,127 +1,163 @@
 <div align="center">
-<a href="https://github.com/NM3806">
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120px" alt="Hey there!" style="border-radius: 50%;" />
-</a>
-<h1>Hi there, I'm Naitik Madarwal 👋</h1>
-<p>
-A passionate <strong>Full Stack Developer</strong> specializing in <strong>Web3 & AI</strong>.<br/>
-I'm currently pursuing a B.Tech in IT at IIIT Bhopal (2023–2027) and working as a Full Stack Developer Intern at Soven.<br/>
-I thrive on building innovative applications that challenge me and expand my skill set.
-</p>
 
-<div>
-<a href="https://www.linkedin.com/in/naitik-madarwal-nm3806" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="mailto:naitikmadarwal3806@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120px" alt="Hey there!" />
+
+# 👋 Hi, I'm **Naitik Madarwal**  
+**Full Stack Developer · Web3 & AI · Product Builder**
+
+📍 B.Tech IT @ IIIT Bhopal (2023–2027)  
+💼 Ex–Full Stack Developer Intern **@ Soven Developer**
+
+
+I love building clean, fast, and meaningful products — especially where **real-time systems**, **AI**, and **Web3** meet.
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naitik-madarwal-nm3806)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naitikmadarwal3806@gmail.com)
+
 </div>
-</div>
 
-🚀 What I'm Up To
-🌱 Currently diving deep into advanced AI models and blockchain development.
+---
 
-💬 Feel free to ask me about my projects and the tech behind them.
+## 🚀 About Me
 
-🛠️ My Tech Stack
+Former **Full Stack Developer Intern @ Soven Developer**, where I worked on AI-driven products, modular pipelines, and scalable UI/UX systems.
+
+I love building products end-to-end — from architecture and backend logic to clean, minimal frontend experiences.  
+My work often blends **real-time collaboration**, **AI/LLM integrations**, and **Web3**, with a strong focus on usability and performance.
+
+Some things I care about:
+- Designing systems that scale cleanly  
+- Prioritizing clarity, structure, and user experience  
+- Building practical products, not just prototypes  
+- Exploring the space where **AI × Web3 × real-time apps** intersect
+
+---
+
+## 🛠️ **Tech Stack I Use**
 <div align="center">
-<p>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-</p>
-<p>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
-<img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" alt="Solana">
-<img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=api-platform&logoColor=white" alt="REST API">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-</p>
+
+### **Frontend**
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+
+### **Backend & Databases**
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=000)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=fff)
+
+### **AI & Web3**
+![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google)
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=fff)
+
+### **Languages & Tools**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
 </div>
 
-✨ My Key Projects
-<table align="center" style="border: none; width: 100%;">
-<!-- SOLMate and SocialEyes -->
-<tr valign="top">
-<td width="50%" style="padding: 15px;">
-<h3 align="center">SOLMate</h3>
-<a href="https://github.com/NM3806/solmate">
-<img width="100%" alt="solmate" src="https://github.com/user-attachments/assets/d89fdf57-a990-4ca6-80dd-6f3c06f0383c" style="border-radius: 10px;"/>
+---
+
+# 🌟 **Featured Projects**
+
+## 🔹 **Aide-Mémoire — AI-powered Collaborative Workspace**
+<a href="https://github.com/NM3806/aide-memoire">
+<img width="100%" alt="aide-memoire" src="https://github.com/user-attachments/assets/eab9b4d5-f17e-4173-8f69-8ec3c6359a06" style="border-radius: 10px;"/>
 </a>
-<div style="padding-top: 10px;">
-<p>A decentralized app for creating and managing SPL tokens on the Solana blockchain.</p>
-<b>Features:</b>
-<ul>
-<li>Token creation & metadata updates</li>
-<li>Minting and transferring tokens</li>
-<li>Seamless Phantom Wallet integration</li>
-</ul>
-</div>
-</td>
-<td width="50%" style="padding: 15px;">
-<h3 align="center">SocialEyes</h3>
+
+**Tech:** Next.js, Tailwind, Firebase, Clerk, Liveblocks, Editor.js, Gemini API, Razorpay  
+A calm workspace for real-time editing, structured writing, and AI-assisted creation.
+
+- Real-time multi-user editing  
+- Modular Editor.js + Firestore autosave (250ms)  
+- Gemini AI for templates & summaries  
+- Clerk authentication with workspace roles  
+- Razorpay subscription billing  
+- Clean, production-ready landing page  
+
+🔗 **Live:** https://aide-memoire-nm3806.vercel.app  
+🔗 **GitHub:** https://github.com/NM3806/aide-memoire  
+
+---
+
+## 🔹 **SOLMate — Create & Manage SPL Tokens (Solana)**
+<a href="https://github.com/NM3806/solmate">
+<img width="100%" alt="solmate" src="https://github.com/user-attachments/assets/e2371d00-d311-43bc-abbd-5fa55d80feb0" style="border-radius: 10px;"/>
+</a>
+
+**Tech:** Next.js, Tailwind, Solana Web3.js, Phantom Wallet  
+Frontend for token creation, minting, metadata updates, and transfers.
+
+- Create & mint SPL tokens  
+- Metadata (name, symbol, logo)  
+- Phantom Wallet integration  
+- Real-time balances  
+- Modern UI, responsive design  
+
+🔗 **Live:** https://solmate-nm3806.vercel.app  
+🔗 **GitHub:** https://github.com/NM3806/solmate  
+
+---
+
+## 🔹 **SocialEyes — Real-Time Social Platform**
 <a href="https://github.com/NM3806/socialeyes">
 <img width="100%" alt="socialeyes" src="https://github.com/user-attachments/assets/cc25a8c4-15a6-4975-9300-bc78d3bce697" style="border-radius: 10px;"/>
 </a>
-<div style="padding-top: 10px;">
-<p>A real-time social media platform with a focus on low-latency interactions and concurrent updates.</p>
-<b>Features:</b>
-<ul>
-<li>Real-time post creation and feed updates</li>
-<li>Interactive likes and threaded comments</li>
-<li>Built for high concurrency</li>
-</ul>
-</div>
-</td>
-</tr>
-<!-- YouTube Downloader -->
-<tr valign="top">
-<td width="50%" style="padding: 15px;">
-<h3 align="center">YouTube Downloader GUI</h3>
-<a href="https://github.com/NM3806/Youtube-Video-Downloader-GUI">
-<img width="100%" alt="yt video downloader" src="https://github.com/user-attachments/assets/e78db451-cfc4-4b77-889f-0d5834a3f124" style="border-radius: 10px;"/>
-</a>
-</td>
-<td width="50%" style="padding: 15px; vertical-align: middle;">
-<div>
-<p>A user-friendly desktop application for downloading YouTube videos and audio with a clean interface.</p>
-<b>Features:</b>
-<ul>
-<li>Download video (MP4) and audio (MP3)</li>
-<li>Real-time progress bar and ETA</li>
-<li>Automatic thumbnail previews</li>
-</ul>
-<b>Tech:</b> Python, yt-dlp, CustomTkinter
-</div>
-</td>
-</tr>
-</table>
 
-🏆 Achievements & Metrics
+**Tech:** Next.js, Tailwind, Firebase, WebSockets  
+Real-time social media feed with low-latency interactions.
+
+- Instant posts & updates  
+- Threaded comments  
+- High concurrency performance  
+
+🔗 **GitHub:** https://github.com/NM3806/socialeyes  
+
+---
+
+## 🔹 **YouTube Downloader GUI**
+<a href="https://github.com/NM3806/Youtube-Video-Downloader-GUI">
+<img width="100%" alt="yt-downloader" src="https://github.com/user-attachments/assets/e78db451-cfc4-4b77-889f-0d5834a3f124" style="border-radius: 10px;"/>
+</a>
+
+**Tech:** Python, CustomTkinter, yt-dlp  
+Simple GUI for downloading YouTube videos & audio.
+
+🔗 **GitHub:** https://github.com/NM3806/Youtube-Video-Downloader-GUI  
+
+---
+
+# 🏆 **Achievements**
 <div align="center">
-<p>
-<img src="https://nirzak-streak-stats.vercel.app/?user=NM3806&theme=dark&hide_border=false" alt="GitHub Streak"/>
-</p>
-<p>
-<img src="https://github-profile-trophy.vercel.app/?username=NM3806&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&column=3" alt="GitHub Trophies"/>
-</p>
+
+![Streak](https://nirzak-streak-stats.vercel.app/?user=NM3806&theme=dark)
 <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=NM3806&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Naitik's GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NM3806&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Naitik's Top Languages"/>
-<p>
-<a href="https://www.codechef.com/users/naitikm3806" target="_blank"><img src="https://img.shields.io/badge/CodeChef-2_Star_Coder-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Rank"/></a>
-<a href="https://ideathon-gdsc.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Ideathon_Winner-2nd_Place-4CAF50?style=for-the-badge" alt="Ideathon Winner"/></a>
-<a href="https://gssoc.tech" target="_blank"><img src="https://img.shields.io/badge/GSSOC_Extended_2024-Rank_338-FF5722?style=for-the-badge" alt="GSSOC Rank"/></a>
-</p>
-  <!-- Additional Metrics -->
-<p>
-<img src="https://komarev.com/ghpvc/?username=NM3806&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/NM3806?label=Followers&style=social" alt="GitHub Followers" />
-<img src="https://img.shields.io/github/stars/NM3806?label=Total%20Stars&style=social" alt="GitHub Stars" />
-</p>
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=NM3806&theme=radical&row=1&column=3)
+
+</div>
+
+---
+
+# 📊 **GitHub Stats**
+
+<!-- <div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=NM3806&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="140px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NM3806&theme=dark&layout=compact&hide_border=false" height="140px" />
+
+</div>
+
+--- -->
+
+<div align="center">
+
+### 🔎 Profile Insights
+![Views](https://komarev.com/ghpvc/?username=NM3806&label=Profile%20Views&color=0e75b6&style=flat)
+![Followers](https://img.shields.io/github/followers/NM3806?style=social)
+![Stars](https://img.shields.io/github/stars/NM3806?style=social)
+
 </div>
