@@ -54,8 +54,8 @@ Some things I care about:
 ### **Languages & Tools**
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
 </div>
 
@@ -63,20 +63,16 @@ Some things I care about:
 
 # 🌟 **Featured Projects**
 
+---
+
 ## 🔹 **Aide-Mémoire — AI-powered Collaborative Workspace**
 <a href="https://github.com/NM3806/aide-memoire">
 <img width="100%" alt="aide-memoire" src="https://github.com/user-attachments/assets/eab9b4d5-f17e-4173-8f69-8ec3c6359a06" style="border-radius: 10px;"/>
 </a>
 
 **Tech:** Next.js, Tailwind, Firebase, Clerk, Liveblocks, Editor.js, Gemini API, Razorpay  
-A calm workspace for real-time editing, structured writing, and AI-assisted creation.
 
-- Real-time multi-user editing  
-- Modular Editor.js + Firestore autosave (250ms)  
-- Gemini AI for templates & summaries  
-- Clerk authentication with workspace roles  
-- Razorpay subscription billing  
-- Clean, production-ready landing page  
+A calm workspace for real-time editing, structured writing, and AI-assisted creation.
 
 🔗 **Live:** https://aide-memoire-nm3806.vercel.app  
 🔗 **GitHub:** https://github.com/NM3806/aide-memoire  
@@ -89,44 +85,37 @@ A calm workspace for real-time editing, structured writing, and AI-assisted crea
 </a>
 
 **Tech:** Next.js, Tailwind, Solana Web3.js, Phantom Wallet  
-Frontend for token creation, minting, metadata updates, and transfers.
 
-- Create & mint SPL tokens  
-- Metadata (name, symbol, logo)  
-- Phantom Wallet integration  
-- Real-time balances  
-- Modern UI, responsive design  
+Frontend for token creation, minting, metadata updates, and transfers.
 
 🔗 **Live:** https://solmate-nm3806.vercel.app  
 🔗 **GitHub:** https://github.com/NM3806/solmate  
 
 ---
 
-## 🔹 **SocialEyes — Real-Time Social Platform**
+# 📁 **More Projects**
+
+<table align="center">
+<tr>
+
+<td width="50%" style="padding: 10px; vertical-align: top;">
+<h3 align="center">SocialEyes</h3>
 <a href="https://github.com/NM3806/socialeyes">
 <img width="100%" alt="socialeyes" src="https://github.com/user-attachments/assets/cc25a8c4-15a6-4975-9300-bc78d3bce697" style="border-radius: 10px;"/>
 </a>
+<p align="center"><i>Real-time social platform built with Next.js, Firebase & WebSockets.</i></p>
+</td>
 
-**Tech:** Next.js, Tailwind, Firebase, WebSockets  
-Real-time social media feed with low-latency interactions.
-
-- Instant posts & updates  
-- Threaded comments  
-- High concurrency performance  
-
-🔗 **GitHub:** https://github.com/NM3806/socialeyes  
-
----
-
-## 🔹 **YouTube Downloader GUI**
+<td width="50%" style="padding: 10px; vertical-align: top;">
+<h3 align="center">YouTube Downloader GUI</h3>
 <a href="https://github.com/NM3806/Youtube-Video-Downloader-GUI">
 <img width="100%" alt="yt-downloader" src="https://github.com/user-attachments/assets/e78db451-cfc4-4b77-889f-0d5834a3f124" style="border-radius: 10px;"/>
 </a>
+<p align="center"><i>Simple Python GUI app for downloading YouTube videos & audio.</i></p>
+</td>
 
-**Tech:** Python, CustomTkinter, yt-dlp  
-Simple GUI for downloading YouTube videos & audio.
-
-🔗 **GitHub:** https://github.com/NM3806/Youtube-Video-Downloader-GUI  
+</tr>
+</table>
 
 ---
 
