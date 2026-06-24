@@ -108,7 +108,7 @@ Frontend for token creation, minting, metadata updates, and transfers.
 
 <td width="50%" style="padding: 10px; vertical-align: top;">
 <h3 align="center">YouTube Downloader GUI</h3>
-<a href="https://github.com/NM3806/Youtube-Video-Downloader-GUI">
+<a href="https://github.com/NM3806/YouTube_Downloader_Python">
 <img width="100%" alt="yt-downloader" src="https://github.com/user-attachments/assets/e78db451-cfc4-4b77-889f-0d5834a3f124" style="border-radius: 10px;"/>
 </a>
 <p align="center"><i>Simple Python GUI app for downloading YouTube videos & audio.</i></p>
