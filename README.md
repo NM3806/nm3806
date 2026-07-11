@@ -30,8 +30,7 @@ My work often blends **real-time collaboration**, **AI/LLM integrations**, and *
 Some things I care about:
 - Designing systems that scale cleanly  
 - Prioritizing clarity, structure, and user experience  
-- Building practical products, not just prototypes  
-- Exploring the space where **AI × Web3 × real-time apps** intersect
+- Building practical products, not just prototypes 
 
 ---
 
