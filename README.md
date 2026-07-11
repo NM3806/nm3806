@@ -3,7 +3,7 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120px" alt="Hey there!" />
 
 # 👋 Hi, I'm **Naitik Madarwal**  
-**Full Stack Developer · Web3 & AI · Product Builder**
+**Software Developer**
 
 📍 B.Tech IT @ IIIT Bhopal (2023–2027)  
 💼 Ex–Full Stack Developer Intern **@ Soven Developer**
