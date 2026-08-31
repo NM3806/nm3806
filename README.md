@@ -3,6 +3,8 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120px" alt="Hey there!" />
 
 # 👋 Hi, I'm **Naitik Madarwal**  
+![Portfolio](https://img.shields.io/badge/Portfolio-naitikmadarwal.in-black?style=flat&logo=vercel)
+
 **Software Developer**
 
 📍 B.Tech IT @ IIIT Bhopal (2023–2027)  
